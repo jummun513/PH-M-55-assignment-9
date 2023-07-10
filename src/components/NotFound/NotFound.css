@@ -1,0 +1,16 @@
+.NotFound-container {
+    margin: auto;
+    width: fit-content;
+    padding: 50px;
+    text-align: center;
+}
+
+.NotFound-container h1 {
+    font-size: 50px;
+    color: gray;
+}
+
+.NotFound-container p {
+    font-size: 30px;
+    color: gray;
+}

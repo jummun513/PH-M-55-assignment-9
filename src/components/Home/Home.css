@@ -1,0 +1,51 @@
+.home-container {
+    display: flex;
+    padding: 100px;
+    padding-bottom: 0;
+}
+
+.text {
+    width: 60%;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+.text h1 {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 30px;
+}
+
+.img {
+    width: 40%;
+}
+
+.img img {
+    width: 100%;
+}
+
+button {
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: 2px solid aquamarine;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: aquamarine;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    color: aquamarine;
+    background-color: white;
+}
+
+
+.review {
+    padding: 50px 100px 100px;
+    text-align: center;
+}
+
+#see-all {
+    padding: 5px 20px;
+}

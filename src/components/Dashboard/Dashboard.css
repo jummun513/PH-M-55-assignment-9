@@ -1,0 +1,12 @@
+.dashboard-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    justify-items: center;
+    padding: 100px 50px 20px 50px;
+}
+
+.dashboard-container h2 {
+    text-align: center;
+    color: rgb(52, 159, 247);
+}
